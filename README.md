@@ -1,9 +1,5 @@
-Hi, I’m Maggie Guo Chen, a 1st year student at MS. in Computational Analysis and Public Policy at UChicago.
+This is a side project of unicorn company analysis, where the dataset is from Kaggle (https://www.kaggle.com/datasets/deepcontractor/unicorn-companies-dataset). 
 
-My previous work experiences were mainly in consulting and finance sectors. I'm exploring to apply data science toolkits to address real world business issues! 
+I focused on the analysis of development trend of unicorns over years, including which country and which industry have witnessed a rising number of unicorns in the recent decade.
 
-Here is my Linkedin page: https://www.linkedin.com/in/guo-maggie-chen-2435a6176/ Look forward to getting connected!
-
-maggiechen615/maggiechen615 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Plotly / Dash is mainly used to do the data viz work.
